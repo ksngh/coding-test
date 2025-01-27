@@ -9,4 +9,3 @@ else :
     b = 3
 for i in range (int(a)) :
     c.add(input())
-print(len(c)//b)
